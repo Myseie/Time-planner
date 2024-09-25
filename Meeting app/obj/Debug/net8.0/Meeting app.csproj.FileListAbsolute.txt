@@ -1,0 +1,14 @@
+D:\Programmering\Programmering\Meeting app\bin\Debug\net8.0\Meeting app.exe
+D:\Programmering\Programmering\Meeting app\bin\Debug\net8.0\Meeting app.deps.json
+D:\Programmering\Programmering\Meeting app\bin\Debug\net8.0\Meeting app.runtimeconfig.json
+D:\Programmering\Programmering\Meeting app\bin\Debug\net8.0\Meeting app.dll
+D:\Programmering\Programmering\Meeting app\bin\Debug\net8.0\Meeting app.pdb
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.AssemblyInfoInputs.cache
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.AssemblyInfo.cs
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.dll
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\refint\Meeting app.dll
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.pdb
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\Meeting app.genruntimeconfig.cache
+D:\Programmering\Programmering\Meeting app\obj\Debug\net8.0\ref\Meeting app.dll
